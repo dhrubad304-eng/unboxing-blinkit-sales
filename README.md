@@ -21,7 +21,7 @@ A comprehensive data analysis project examining sales, product performance, and 
 - plotly - Interactive visualizations
 
 #### **Key Features**
-- Data Cleaning
+*- Data Cleaning*
   - Standardized categorical variables (Item Fat Content)
   - Handled inconsistent and missing entries
     
@@ -32,13 +32,47 @@ A comprehensive data analysis project examining sales, product performance, and 
 - Average Rating: 3.97
 
 #### **Visualizations**
-- Sales Analysis
+*- Sales Analysis*
   - Total Sales by Fat Content - Pie chart
   - Total Sales by Item Type - Bar chart
   - Fat Content by Outlet Location - Grouped bar chart
   - Sales Trends by Establishment Year - Line chart
   - Sales Distribution by Outlet Size - Pie chart
   - Sales by Outlet Location Type - Horizontal bar chart
+    
+#### **Key Insights**
+*- Product Performance*
+  - Low Fat products contribute around 64.7% of total sales
+  - Fruits and Vegetables category leads in total sales
+  - Product visibility varies significantly across item types
+
+#### **Outlet Analysis**
+  -Tier 3 locations generate the highest total sales*
+  - Medium-sized outlets dominate the market share
+  - Establishment year shows meaningful trends in performance
+
+#### **Dataset Description**
+*- The dataset contains 8,523 rows and 12 columns:*
+  - Item Fat Content: Fat content category (Low Fat / Regular)
+  - Item Identifier: Unique product ID
+  - Item Type: Product category
+  - Outlet Establishment Year: Year the outlet was established
+  - Outlet Identifier: Unique outlet ID
+  - Outlet Location Type: Tier classification of location
+  - Outlet Size: Size category of the outlet
+  - Outlet Type: Type of outlet
+  - Item Visibility: Product visibility metric
+  - Item Weight: Weight of the item
+  - Sales: Sales value
+  - Rating: Product rating
+
+#### **Business Recommendations**
+  - Focus on expanding Tier 3 locations as they generate the most revenue
+  -  Optimize inventory for Low Fat products to match customer demand
+  - Improve visibility for Fruits and Vegetables products
+  - Study outlet performance by establishment year to guide business growth
+
+
 
 
 
