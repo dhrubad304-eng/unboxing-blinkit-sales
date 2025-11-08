@@ -2,10 +2,23 @@
 ### **Blinkit Analysis Project**
 A comprehensive data analysis project examining sales, product performance, and outlet characteristics from Blinkit (formerly Grofers) grocery delivery service data.
 
-Project Overview
+#### **Project Overview**
 - This project performs exploratory data analysis (EDA) on Blinkit's sales dataset to uncover insights about:
 - Sales patterns across different product categories
 - Outlet performance metrics and trends
 - Customer preferences (fat content, product types)
 - Geographic distribution of sales
+
+#### **Technologies Used**
+**Language:*
+- Python 3.x
+
+#### **Libraries:**
+- pandas - Data manipulation and analysis
+- numpy - Numerical computations
+- matplotlib - Static visualizations
+- seaborn - Statistical data visualization
+- plotly - Interactive visualizations
+
+
 
