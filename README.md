@@ -2,7 +2,7 @@
 ### **Blinkit Analysis Project**
 A comprehensive data analysis project examining sales, product performance, and outlet characteristics from Blinkit (formerly Grofers) grocery delivery service data.
 
-<img src="https://github.com/dhrubad304-eng/unboxing-blinkit-sales/blob/main/blinkit_png.png?raw=true">
+<img src="https://github.com/dhrubad304-eng/unboxing-blinkit-sales/blob/main/blinkit_png.png?raw=true", width = "600">
 
 #### **Project Overview**
 - This project performs exploratory data analysis (EDA) on Blinkit's sales dataset to uncover insights about:
@@ -23,7 +23,7 @@ A comprehensive data analysis project examining sales, product performance, and 
 - plotly - Interactive visualizations
 
 #### **Key Features**
-*- Data Cleaning*
+- Data Cleaning
   - Standardized categorical variables (Item Fat Content)
   - Handled inconsistent and missing entries
     
@@ -34,7 +34,7 @@ A comprehensive data analysis project examining sales, product performance, and 
 - Average Rating: 3.97
 
 #### **Visualizations**
-*- Sales Analysis*
+- Sales Analysis
   - Total Sales by Fat Content - Pie chart
   - Total Sales by Item Type - Bar chart
   - Fat Content by Outlet Location - Grouped bar chart
@@ -43,7 +43,7 @@ A comprehensive data analysis project examining sales, product performance, and 
   - Sales by Outlet Location Type - Horizontal bar chart
     
 #### **Key Insights**
-*- Product Performance*
+- Product Performance
   - Low Fat products contribute around 64.7% of total sales
   - Fruits and Vegetables category leads in total sales
   - Product visibility varies significantly across item types
@@ -54,7 +54,7 @@ A comprehensive data analysis project examining sales, product performance, and 
   - Establishment year shows meaningful trends in performance
 
 #### **Dataset Description**
-*- The dataset contains 8,523 rows and 12 columns:*
+- The dataset contains 8,523 rows and 12 columns:
   - Item Fat Content: Fat content category (Low Fat / Regular)
   - Item Identifier: Unique product ID
   - Item Type: Product category
@@ -74,7 +74,11 @@ A comprehensive data analysis project examining sales, product performance, and 
   - Improve visibility for Fruits and Vegetables products
   - Study outlet performance by establishment year to guide business growth
 
-
+### **Author & Contact**
+- Dhruba Debnath
+- EX - BDA-(DATA) at Urban Company | MBA in Marketing 
+- Email: dhrubad304@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dhruba-debnath/?skipRedirect=true
 
 
 
