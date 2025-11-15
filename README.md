@@ -12,7 +12,7 @@ A comprehensive data analysis project examining sales, product performance, and 
 - Geographic distribution of sales
 
 #### **Technologies Used**
-**Language:*
+*Language:*
 - Python 3.x
 
 #### *Libraries:*
@@ -49,7 +49,7 @@ A comprehensive data analysis project examining sales, product performance, and 
   - Product visibility varies significantly across item types
 
 #### **Outlet Analysis**
-  -Tier 3 locations generate the highest total sales*
+  - Tier 3 locations generate the highest total sales*
   - Medium-sized outlets dominate the market share
   - Establishment year shows meaningful trends in performance
 
